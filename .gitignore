@@ -1,0 +1,21 @@
+# Compiled binaries (Windows)
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Temporary build files
+*.out
+a.out
+
+# Debug / IDE files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs 
+*.log
